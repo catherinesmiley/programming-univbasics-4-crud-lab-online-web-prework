@@ -17,6 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+  netflix_shows = ["Money Heist", "The Great British Baking Show", "Stranger Things", "Orange is the New Black"]
   
 end
 
