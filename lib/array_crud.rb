@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   netflix_shows = ["wow", "Money Heist", "The Great British Baking Show", "Stranger Things", "Orange is the New Black"]
-  wow_show = 
+  wow_show = netflix_shows.
 end
 
 def retrieve_element_from_index(array, index_number)
