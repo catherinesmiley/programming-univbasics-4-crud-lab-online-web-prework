@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  netflix_shows = 
+  netflix_shows = ["Money Heist", "The Great British Baking Show", "Stranger Things", "Orange is the New Black"]
 end
 
 def add_element_to_end_of_array(array, element)
