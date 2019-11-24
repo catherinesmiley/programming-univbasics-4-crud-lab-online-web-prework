@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   netflix_shows = "Money Heist", "The Great British Baking Show", "Stranger Things", "Orange is the New Black"]
-  
+  netflix_shows[2]
 end
 
 def retrieve_first_element_from_array(array)
