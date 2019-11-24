@@ -27,6 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
+  netflix_shows = "Money Heist", "The Great British Baking Show", "Stranger Things", "Orange is the New Black"]
   
 end
 
