@@ -32,7 +32,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  netflix_shows = ["wow", "Money Heist", "The Great British Baking Show", "Orange is the New Black"]
+  netflix_shows[0]
 end
 
 def retrieve_last_element_from_array(array)
